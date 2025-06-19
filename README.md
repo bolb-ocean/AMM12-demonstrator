@@ -2,10 +2,11 @@
 # Atlantic Margin Model (AMM12) demonstrator
 
 This page describes the AMM12 (Atlantic Margin Model) configuration for the NEMO ocean model in its version 5.0.1. It contains a [wiki](https://github.com/bolb-ocean/AMM12-hackathon/wiki) which contains step by step tutorials on how to:
-* Set up the default AMM12 configuration and perform a simulation.
-* Change namelists parameters: use of updated nemo5.0.1 physics and/or set the tides on and off.
-* Add additionnal diagnotics as outputs.
-* Create domain configuration files from scratch using an external bathymetry dataset (e.g: GEBCO and EMODNET) and update the bathymetry using BMGtool.
+
+* [Tutorial 1](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-1:-Set%E2%80%90up-and-run-a-simulation): Set-up the AMM12 standard configuration and perform a simulation. It also contains some general guidance on good practice on ocean modelling.
+* [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-2:-Changing-namelist-parameters-to-turn-tide-on-and-off): Change namelist parameters to set the tides on and off, and analyse the results
+* [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-3:-Adding-new-Diagnostics): Add new diagnostics as model outputs.
+* [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-4:-Create-domain-configuration-files-and-update-the-bathymetry): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
 
 <p align="center" width="100%">
     <img src="https://github.com/bolb-ocean/AMM12-hackathon/blob/main/FIGURES/AMM_domain.png">
