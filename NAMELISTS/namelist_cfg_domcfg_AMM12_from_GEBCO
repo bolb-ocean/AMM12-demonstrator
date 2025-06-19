@@ -21,8 +21,8 @@
                            ! = 3 compute from parent (if "key_agrif")
    nn_interp   =    1                          ! type of interpolation (nn_bathy =2)
    ln_lin_int  = .true.                        ! linear (T) or near neighb (F) interp (nn_bathy =3)
-   cn_domcfg   =  'domcfg_tmp2.nc'                
-   cn_fcoord   =  'domcfg_tmp2.nc'             ! external coordinates file (jphgr_msh = 0)
+   cn_domcfg   =  'AMM_R12_sco_domcfg.nc'                
+   cn_fcoord   =  'AMM_R12_sco_domcfg.nc'             ! external coordinates file (jphgr_msh = 0)
    cn_topo     =  'GEBCO_2020_ibi_switch_ok.nc'             ! external topo file (nn_bathy =1)
 
    cn_bath     =  'elevation'                 ! topo name in file  (nn_bathy =1)
