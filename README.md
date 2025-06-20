@@ -7,7 +7,7 @@ This page describes the AMM12 (Atlantic Margin Model) configuration for the NEMO
 * [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-2:-Changing-namelist-parameters-to-turn-tide-on-and-off): Change namelist parameters to set the tides on and off, and analyse the results
 * [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-3:-Adding-new-Diagnostics): Add new diagnostics as model outputs.
 * [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-4:-Create-domain-configuration-files-and-update-the-bathymetry): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
-* [Tutorial 5](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-5:-MLR-tidal-harmonic-analysis.): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
+* [Tutorial 5]([https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-5:-MLR-tidal-harmonic-analysis.](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-5:-MLR-tidal-harmonic-analysis)): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
 
 <p align="center" width="100%">
     <img src="https://github.com/bolb-ocean/AMM12-hackathon/blob/main/FIGURES/AMM_domain.png">
