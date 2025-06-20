@@ -10,7 +10,8 @@ data_dir = '$filepath/'
 tides = xr.open_dataset(data_dir+'AMM12_1h_20120102_20120109_diamlr_coeffs_grid_T.nc')
 dom = xr.open_dataset(data_dir'AMM_R12_sco_domcfg.nc')
 
-#Pull complex components.
+#Pull complex components. The r00n suffix refers to the field_id for each complex constituent component defined in context_nemo.xml.
+#Ordering depends on how they are defined in NEMO so harder to iterate. 
 m2_sin = tides['diamlr_f001-diamlr_r001']
 m2_cos = tides['diamlr_f001-diamlr_r002']
 k1_sin = tides['diamlr_f001-diamlr_r003']
