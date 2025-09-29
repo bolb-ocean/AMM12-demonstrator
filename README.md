@@ -30,4 +30,5 @@ Physics upgrades were added to AMM12 following those used in (AMM7 CO9)[https://
 | namdyn_ldf | rn_Uv = 0.12 | rn_Uv = 0.012 |
 | namzdf_gls | rn_emin = 1e-7 nn_z0_met = 2 | rn_emin = 1e-6 nn_z0_met = 1 |
 
-
+## Acknowledgement
+The AMM12 demonstrator was done under the guidance of the NEMO system team as part of the NEMO Hackathon 2025. The authors would like to thank Jeff Polten and Daley Calvert for their guidance and advice throughout.  
