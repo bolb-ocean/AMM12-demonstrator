@@ -1,13 +1,13 @@
 
 # Atlantic Margin Model (AMM12) demonstrator
 
-This page describes the AMM12 (Atlantic Margin Model) configuration for the NEMO ocean model in its version 5.0.1. It contains a [wiki](https://github.com/bolb-ocean/AMM12-hackathon/wiki) which contains step by step tutorials on how to:
+This page describes the AMM12 (Atlantic Margin Model) configuration for the NEMO ocean model in its version 5.0.1. It contains a [wiki](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/wiki.md) which contains step by step tutorials on how to:
 
-* [Tutorial 1](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-1:-Set%E2%80%90up-and-run-a-simulation): Set-up the AMM12 standard configuration and perform a simulation. It also contains some general guidance on good practice on ocean modelling.
-* [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-2:-Changing-namelist-parameters-to-turn-tide-on-and-off): Change namelist parameters to set the tides on and off, and analyse the results
-* [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-3:-Adding-new-Diagnostics): Add new diagnostics as model outputs.
-* [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-4:-Create-domain-configuration-files-and-update-the-bathymetry): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
-* [Tutorial 5](https://github.com/bolb-ocean/AMM12-hackathon/wiki/Tutorial-5:-MLR-tidal-harmonic-analysis): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
+* [Tutorial 1](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-1): Set-up the AMM12 standard configuration and perform a simulation. It also contains some general guidance on good practice on ocean modelling.
+* [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2): Change namelist parameters to set the tides on and off, and analyse the results
+* [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3): Add new diagnostics as model outputs.
+* [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-4): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
+* [Tutorial 5](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-5): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
 
 <p align="center" width="100%">
     <img src="https://github.com/bolb-ocean/AMM12-hackathon/blob/main/FIGURES/AMM_domain.png">
