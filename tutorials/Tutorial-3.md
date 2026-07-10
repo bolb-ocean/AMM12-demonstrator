@@ -3,7 +3,7 @@
 This tutorial will guide you through adding new output diagnostics to your model runs. XIOS is told which output files to create and which fields to include in file_def_nemo-oce.xml; this is covered in Stage 1. XIOS is told which fields are output from NEMO and are available for file_def to call within the field_def_nemo-oce.xml file; this is covered in Stage 2. Finally the NEMO model is told which variables to output to XIOS by calling iom_put within the source code; this is covered in Stage 3. 
 ## Stage 1 - Creating output files for defined fields.
 
-The simplest way to add diagnostics your output files is to call a field defined in field_def_nemo-oce in the definition of one of your output files in file_def_nemo-oce.xml. This example is covered in our [Turning tide on and off](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3.md) section.
+The simplest way to add diagnostics your output files is to call a field defined in field_def_nemo-oce in the definition of one of your output files in file_def_nemo-oce.xml. This example is covered in our [Turning tide on and off](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2.md) section.
  
 You can take this further in two ways. Firstly by defining your own file:
 1. First pick or create a file_group that fits your needs. An example for 10 minutes output file is provided:
