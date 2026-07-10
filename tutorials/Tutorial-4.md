@@ -1,4 +1,4 @@
-#Tutorial 4: Create domain configuration files and update the bathymetry
+# Tutorial 4: Create domain configuration files and update the bathymetry
 
 This tutorial aim at providing guidelines to update the bathymetry of a NEMO regional configuration from scratch. In particular, it details how to create a domain configuration file from an external bathymetry, and gives insights on how to update the bathymetry at coastlines and provides link to tutorials to create boundary & initial conditions afterwards. Note that this tutorial use the AMM12 configuration, but can be applied to any other configuration.
 

@@ -1,4 +1,4 @@
-#Tutorial 5: MLR tidal harmonic analysis
+# Tutorial 5: MLR tidal harmonic analysis
 
 This guide will detail how to activate the diamlr.f90 module and use the outputs to calculate 2D tidal harmonic fields and use these for making Cotidal charts. Further details on the tidal harmonic analysis using multiple-linear-regression analysis can be found in section 12.8 of the NEMO manual.
 

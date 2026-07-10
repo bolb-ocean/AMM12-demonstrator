@@ -1,4 +1,4 @@
-#Tutorial 2: Changing namelist parameters to turn tide on and off
+# Tutorial 2: Changing namelist parameters to turn tide on and off
 
 ## Aim of Tutorial
 The aim of this tutorial is to give the readers an opportunity to make changes to the namelist parameters and see the effects of it. Here we choose to use tidal forcing to demonstrate how to make changes to the namelist parameters. 

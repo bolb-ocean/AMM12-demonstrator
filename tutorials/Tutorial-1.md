@@ -1,4 +1,4 @@
-#Tutorial 1: Set‐up and run a simulation
+# Tutorial 1: Set‐up and run a simulation
 
 This mini tutorial will provide you with additional guidance for setting up the NEMO build for the AMM12 demonstrator.
 ## Step 1 - Download and install NEMO
