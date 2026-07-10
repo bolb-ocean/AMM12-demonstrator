@@ -57,4 +57,4 @@ cp -r cfgs_update/* /nemo_5.0.1/cfgs/MY_AMM12/EXP00/.
 1. If you want to change any NEMO code (.f90 files or files in src) you will need to recompile. Here it is recommended to copy your whole nemo build before making changes. 
 2. If you want to change forcings, namelist options, .xml files, you do not need to recompile NEMO. Here you can make a new copy of NEMO or just a copy of your cfgs/MY_AMM12/EXP$$ folder.
 
-You will see an example of these in [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2) where namelist parameters are changed and [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3) where new diagnostics are added to source code. 
+You will see an example of these in [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2.md where namelist parameters are changed and [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3.md) where new diagnostics are added to source code. 

@@ -3,11 +3,11 @@
 
 This page describes the AMM12 (Atlantic Margin Model) configuration for the NEMO ocean model in its version 5.0.1. It contains a [wiki](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/wiki.md) which contains step by step tutorials on how to:
 
-* [Tutorial 1](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-1): Set-up the AMM12 standard configuration and perform a simulation. It also contains some general guidance on good practice on ocean modelling.
-* [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2): Change namelist parameters to set the tides on and off, and analyse the results
-* [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3): Add new diagnostics as model outputs.
-* [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-4): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
-* [Tutorial 5](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-5): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
+* [Tutorial 1](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-1.md): Set-up the AMM12 standard configuration and perform a simulation. It also contains some general guidance on good practice on ocean modelling.
+* [Tutorial 2](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-2.md): Change namelist parameters to set the tides on and off, and analyse the results
+* [Tutorial 3](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-3.md): Add new diagnostics as model outputs.
+* [Tutorial 4](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-4.md): Create domain configuration files (domain_cfg.nc) and update the bathymetry.
+* [Tutorial 5](https://github.com/bolb-ocean/AMM12-hackathon/blob/main/tutorials/Tutorial-5.md): Multiple-Linear-Regression (MLR) tidal harmonic analysis.
 
 <p align="center" width="100%">
     <img src="https://github.com/bolb-ocean/AMM12-hackathon/blob/main/FIGURES/AMM_domain.png">
